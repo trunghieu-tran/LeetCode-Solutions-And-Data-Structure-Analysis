@@ -1,6 +1,10 @@
 # LeetCode-Solutions-Java #
 A collection of LeetCode novel solutions that is implemented in Java. It would support you to solve the problems from easy to hard by the simplest ways. 
 
+## Solutions LeeCode ##
+| # | Title | Difficulty | Source code | Solution |
+|---| ----- | ---------- | ----------- | -------- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/saodem74/LeetCode-Solutions-Java/blob/master/src/TwoSum.java) | Medium | 1. Hash O(n) and O(n) space.<br>2. Sort and search with two points O(n) and O(1) space. |
 
 
 ## Big O performance ##
