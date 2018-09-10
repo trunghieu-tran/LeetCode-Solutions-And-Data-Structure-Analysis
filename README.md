@@ -6,6 +6,7 @@ A collection of LeetCode novel solutions that is implemented in Java. It would s
 |---| ----- | ---------- | ----------- | -------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Medium | [Java](https://github.com/saodem74/LeetCode-Solutions-Java/blob/master/src/TwoSum.java) | 1. Hash O(n) and O(n) space.<br>2. Sort and search with two points O(n) and O(1) space. |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Java](https://github.com/saodem74/LeetCode-Solutions-Java/blob/master/src/AddTwoNumber.java) | Take care of the carry from lower digit. |
+|---| To-be-updated soon | ---------- | ----------- | -------- |
 
 ## Big O performance ##
 Below are the Big O performance of common functions of different Java Collections.
