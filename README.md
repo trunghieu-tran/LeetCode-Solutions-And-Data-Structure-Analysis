@@ -27,6 +27,7 @@ EnumSet               | O(1)     | O(1)     | O(1)     | O(1)     | O(1) | Bit V
 TreeSet               | O(log n) | O(log n) | O(log n) | O(log n) | O(1) | Red-black tree
 ConcurrentSkipListSet | O(log n) | O(log n) | O(log n) | O(1)     | O(n) | Skip List
 
+* Note: h is the table capacity
 
 
 Queue                   |  Offer   | Peak |   Poll   | Remove | Size | Data Structure
