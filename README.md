@@ -55,10 +55,16 @@ TreeMap               | O(log n) |   O(log n)  | O(log n) | Red-black tree
 ConcurrentHashMap     | O(1)     |   O(1)      | O(h / n) | Hash Tables
 ConcurrentSkipListMap | O(log n) |   O(log n)  | O(1)     | Skip List
 
-JAVA Collections Framework
+## JAVA Collections Framework ##
 
 <img src="https://raw.githubusercontent.com/saodem74/LeetCode-Solutions-Java/master/Collections_JAVA.png" alt="alt text" width="800" height="800">
 
 Source: Suryaprakash R.
+
+## Sort Algorithm Comparison ##
+
+<img src="https://raw.githubusercontent.com/saodem74/LeetCode-Solutions-Java/master/Sort_comparison.png" alt="alt text" width="1000" height="500">
+
+Source: MCN Professionals
 ## Contributors ##
 Hieu Tran (trantrunghieu7492@gmail.com)
