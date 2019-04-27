@@ -53,6 +53,7 @@ public class AddTwoNumber {
 	}
 
 	public static void main(String[] args) {
-
+		int c = 97;
+		System.out.println((char) c);
 	}
 }
